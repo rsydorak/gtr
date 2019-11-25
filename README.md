@@ -5,11 +5,11 @@ Utilitary helpers for react-admin applications. It's private package, supported 
 ## Installation
 
 ```sh
-npm install empeek.utils.react-admin
+npm install gtrnpm
 
 #or
 
-yarn add empeek.utils.react-admin
+yarn add gtrnpm
 ```
 
 ## Documentation
