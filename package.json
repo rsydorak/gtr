@@ -3,7 +3,7 @@
   "dependencies": {
     "classnames": "^2.2.6",
     "prop-types": "^15.6.2",
-    "react-admin": "^2.9.2",
+    "react-admin": "^4.7.0",
     "react-stripe-elements": "^4.0.0"
   },
   "description": "gtrnpm package",
